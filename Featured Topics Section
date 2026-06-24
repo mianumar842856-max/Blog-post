@@ -1,0 +1,27 @@
+<section class="topics">
+
+    <h2>Featured Learning Areas</h2>
+
+    <div class="topic-container">
+
+        <div class="topic-card">
+            <img src="images/database.jpg">
+            <h3>Database Systems</h3>
+            <p>SQL, normalization, ER diagrams and database design.</p>
+        </div>
+
+        <div class="topic-card">
+            <img src="images/programming.jpg">
+            <h3>Programming Fundamentals</h3>
+            <p>Problem solving and software development principles.</p>
+        </div>
+
+        <div class="topic-card">
+            <img src="images/project.jpg">
+            <h3>Projects</h3>
+            <p>Real-world engineering and implementation skills.</p>
+        </div>
+
+    </div>
+
+</section>
