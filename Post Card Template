@@ -1,0 +1,45 @@
+<div class="post-card">
+
+    <img src="images/wamp.jpg">
+
+    <div class="post-content">
+
+        <h2>
+            Installing WAMP Server and MySQL Environment
+        </h2>
+
+        <p class="date">
+            Week 1
+        </p>
+
+        <p>
+            The first laboratory session introduced us to WAMP Server,
+            Apache, PHP and MySQL. It was exciting to finally connect
+            classroom concepts with real software systems...
+        </p>
+
+        <div class="hashtags">
+            #MLwithDrBilalAhmad
+            #DrBilalAhmad
+            #MLProject
+        </div>
+
+        <div class="professor-links">
+
+            <a href="https://www.linkedin.com/in/drbilalphd/">
+                LinkedIn
+            </a>
+
+            <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en">
+                Google Scholar
+            </a>
+
+            <a href="https://www.facebook.com/Dr.BilalAhm">
+                Facebook
+            </a>
+
+        </div>
+
+    </div>
+
+</div>
