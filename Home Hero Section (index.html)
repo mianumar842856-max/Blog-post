@@ -1,0 +1,22 @@
+html
+<header class="hero">
+
+    <div class="hero-content">
+
+        <h1>
+            Building My Digital Footprint as a Computer Engineering Student
+        </h1>
+
+        <p>
+            Documenting my experiences in Programming Fundamentals,
+            Database Systems, projects, assignments and semester reflections.
+        </p>
+
+        <a href="posts.html" class="hero-btn">
+            Read My Learning Journey
+        </a>
+
+    </div>
+
+</header>
+
